@@ -8,7 +8,7 @@ Rishi Kolady ([koladyr@berkeley.edu](mailto:koladyr@berkeley.edu))
 
 ## Demo Video
 
-See it in action! (https://youtu.be/m07N-qE2jSU)
+See [it in action!](https://youtu.be/m07N-qE2jSU)
 
 ## Screenshots
 
