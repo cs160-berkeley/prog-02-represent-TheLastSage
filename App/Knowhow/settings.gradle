@@ -1,1 +1,1 @@
-include ':mobile', ':wear'
+include ':mobile', ':wear', ':volley', ':twitter4j-core-4.0.4-javadoc', ':twitter4j-core-4.0.4', ':picasso-2.5.2'

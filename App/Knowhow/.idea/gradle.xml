@@ -11,6 +11,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/mobile" />
+            <option value="$PROJECT_DIR$/picasso-2.5.2" />
+            <option value="$PROJECT_DIR$/twitter4j-core-4.0.4" />
+            <option value="$PROJECT_DIR$/twitter4j-core-4.0.4-javadoc" />
+            <option value="$PROJECT_DIR$/volley" />
             <option value="$PROJECT_DIR$/wear" />
           </set>
         </option>

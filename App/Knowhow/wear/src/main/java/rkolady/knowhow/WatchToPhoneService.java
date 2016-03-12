@@ -53,15 +53,26 @@ public class WatchToPhoneService extends Service implements GoogleApiClient.Conn
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
         Bundle extras = intent.getExtras();
-        final String name = extras.getString("name");
+        if (intent.hasExtra("rand")) {
+            new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    mWatchApiClient.connect();
+                    sendMessage("/rand", "rand");
+                }
+            }).start();
+        } else {
 
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                mWatchApiClient.connect();
-                sendMessage("/reps", name);
-            }
-        }).start();
+            final String name = extras.getString("name");
+
+            new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    mWatchApiClient.connect();
+                    sendMessage("/reps", name);
+                }
+            }).start();
+        }
 
         return START_STICKY;
     }
