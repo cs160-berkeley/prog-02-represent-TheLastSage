@@ -8,13 +8,18 @@ Rishi Kolady ([koladyr@berkeley.edu](mailto:koladyr@berkeley.edu))
 
 ## Demo Video
 
-See [it in action!](https://youtu.be/m07N-qE2jSU)
+See [it in action!](https://youtu.be/frAE1P21U_0)
 
 ## Screenshots
 
-Coming soon with the finished project in part C!
+<img src="screenshots/main.png" height="400" alt="Landing Screen"/>
 
-## Acknowledgments
+<img src="screenshots/rep.png" height="400" alt="Reps Listed"/>
 
-* Hat tip to anyone who's code was used
-* Any other support
+<img src="screenshots/detail.png" height="400" alt="More Info"/>
+
+<img src="screenshots/detail2.png" height="400" alt="Lower part of More Info"/>
+
+<img src="screenshots/shakeResult.png" height="400" alt="Random results from shake"/>
+
+<img src="screenshots/shakeWatch.png" height="400" alt="Vote View on Watch"/>
