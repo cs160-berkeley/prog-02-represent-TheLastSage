@@ -14,12 +14,12 @@ See [it in action!](https://youtu.be/frAE1P21U_0)
 
 <img src="screenshots/main.png" height="400" alt="Landing Screen"/>
 
-<img src="screenshots/rep.png" height="400" alt="Reps Listed"/>
+<img src="screenshots/rep.PNG" height="400" alt="Reps Listed"/>
 
-<img src="screenshots/detail.png" height="400" alt="More Info"/>
+<img src="screenshots/detail.PNG" height="400" alt="More Info"/>
 
-<img src="screenshots/detail2.png" height="400" alt="Lower part of More Info"/>
+<img src="screenshots/detail2.PNG" height="400" alt="Lower part of More Info"/>
 
-<img src="screenshots/shakeResult.png" height="400" alt="Random results from shake"/>
+<img src="screenshots/shakeResult.PNG" height="400" alt="Random results from shake"/>
 
-<img src="screenshots/shakeWatch.png" height="400" alt="Vote View on Watch"/>
+<img src="screenshots/shakeWatch.PNG" height="400" alt="Vote View on Watch"/>
